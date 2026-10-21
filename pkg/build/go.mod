@@ -12,7 +12,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.3.0 // @grafana/grafana-developer-enablement-squad
 	github.com/aws/aws-sdk-go v1.55.6 // @grafana/aws-datasources
 	github.com/docker/docker v27.5.1+incompatible // @grafana/grafana-developer-enablement-squad
-	github.com/drone/drone-cli v1.8.0 // @grafana/grafana-developer-enablement-squad
+	github.com/drone/drone-cli v1.9.0 // @grafana/grafana-developer-enablement-squad
 	github.com/gogo/protobuf v1.3.2 // indirect; @grafana/alerting-backend
 	github.com/google/go-cmp v0.7.0 // @grafana/grafana-backend-group
 	github.com/google/uuid v1.6.0 // indirect; @grafana/grafana-backend-group
@@ -27,7 +27,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.35.0 // indirect; @grafana/grafana-backend-group
 	golang.org/x/crypto v0.36.0 // indirect; @grafana/grafana-backend-group
 	golang.org/x/mod v0.24.0 // @grafana/grafana-backend-group
-	golang.org/x/net v0.37.0 // indirect; @grafana/oss-big-tent @grafana/partner-datasources
+	golang.org/x/net v0.38.0 // indirect; @grafana/oss-big-tent @grafana/partner-datasources
 	golang.org/x/oauth2 v0.27.0 // @grafana/identity-access-team
 	golang.org/x/sync v0.12.0 // indirect; @grafana/alerting-backend
 	golang.org/x/text v0.23.0 // indirect; @grafana/grafana-backend-group
